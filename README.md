@@ -18,4 +18,3 @@ Case study #7: Balanced Tree Clothing Company: https://8weeksqlchallenge.com/cas
 
 Case study #8: Fresh Segments: https://8weeksqlchallenge.com/case-study-8/
 
-This project is still currently ongoing, with the hopes that it'll be completed before the year runs out. 
